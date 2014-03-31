@@ -1,6 +1,6 @@
 {
   "name": "vjudge-submitter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A virtual judge submitter module for node.js.",
   "main": "index.js",
   "dependencies": {

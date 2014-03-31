@@ -3,7 +3,7 @@
  */
 var vjsubmitter = require("../");
 
-var submitter = vjsubmitter.createSubmitter("lsu", "XadillaX", "19900429");
+var submitter = vjsubmitter.createSubmitter("lsu", "USERNAME", "PASSWORD");
 submitter.judge(1000, "C++", '#include "iostream"\n\
     using namespace std;\
     int main()\
