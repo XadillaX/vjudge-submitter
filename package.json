@@ -1,0 +1,30 @@
+{
+  "name": "vjudge-submitter",
+  "version": "0.0.1",
+  "description": "A virtual judge submitter module for node.js.",
+  "main": "index.js",
+  "dependencies": {
+    "spidex": "~1.0.5",
+    "async": "~0.6.2",
+    "sugar": "~1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node tester/tester.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/XadillaX/vjudge-submitter.git"
+  },
+  "keywords": [
+    "ACM",
+    "OI",
+    "Virtual Judge"
+  ],
+  "author": "XadillaX",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/XadillaX/vjudge-submitter/issues"
+  },
+  "homepage": "https://github.com/XadillaX/vjudge-submitter"
+}
